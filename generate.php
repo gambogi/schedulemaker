@@ -53,6 +53,12 @@ global $CURRENT_QUARTER;
 				<div class='courseOpts'>
 				</div>
 			</div>
+			<div class='course'>
+				<h3>Course 5</h3>
+				<input id='courses5' type='text' name='courses4' class='courseField' maxlength='17' placeholder='XXXX-XXX-XXXX' />
+				<div class='courseOpts'>
+				</div>
+			</div>
 		</div>
 	</div>
 </div>
